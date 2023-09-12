@@ -1,3 +1,6 @@
+@import "https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css";
+@import "https://fonts.googleapis.com/css?family=Material+Icons";
+@import '~vuetify/dist/vuetify.css';
 @charset "UTF-8";
 /*
 * Trunk version 2.0.0
