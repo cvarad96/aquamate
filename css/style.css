@@ -5,6 +5,7 @@
 /*
 * Trunk version 2.0.0
 */
+
 a:focus,
 button:focus {
 	outline: none !important;
@@ -9970,7 +9971,7 @@ html.tablet .ui-to-top {
 	left: 0;
 	width: 100%;
 	overflow: hidden;
-	max-width: 1200px;
+	max-width: 200px;
 	background: #343a40;
 }
 
@@ -11064,6 +11065,7 @@ html.rd-navbar-fixed-linked .page {
 	}
 }
 
+
 .rd-navbar-sidebar.rd-navbar--is-clone {
 	position: fixed;
 	top: 0;
@@ -11146,6 +11148,7 @@ html.rd-navbar-fixed-linked .page {
 	}
 	.rd-navbar-minimal.rd-navbar-static .rd-menu {
 		margin-top: 34px;
+		margin-left: 32%;
 	}
 }
 
