@@ -6646,6 +6646,8 @@ html:not(.tablet):not(.mobile) .profile-minimal-caption {
 *
 * Timeline
 */
+
+
 .timeline-classic {
 	text-align: left;
 }
@@ -11147,8 +11149,7 @@ html.rd-navbar-fixed-linked .page {
 		padding: 30px 0;
 	}
 	.rd-navbar-minimal.rd-navbar-static .rd-menu {
-		margin-top: 34px;
-		margin-left: 32%;
+		margin-left: 10%;
 	}
 }
 
